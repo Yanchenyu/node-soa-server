@@ -1,0 +1,24 @@
+{
+  "name": "soa-server",
+  "version": "1.0.0",
+  "description": "nodejs基于express的SOA server项目。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanchenyu/node-soa-server.git"
+  },
+  "keywords": [
+    "node",
+    "soa",
+    "express"
+  ],
+  "author": "yanchenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanchenyu/node-soa-server/issues"
+  },
+  "homepage": "https://github.com/Yanchenyu/node-soa-server#readme"
+}
